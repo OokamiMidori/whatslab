@@ -10,9 +10,7 @@ Projeto de uma página onde é possível simular uma conversa em um grupo de pes
 ## Tecnologias usadas:
 
 - ``React.js``
-- ``Vite.js``
 - ``Styled Components``
-- ``Local Storage``
 - ``React Hooks``
 
 ## Rodando o projeto:
